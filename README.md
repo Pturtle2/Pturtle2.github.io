@@ -403,30 +403,30 @@
         
     <h2 id="wines">Recommended Wines</h2>
     <div id="wines.list">
-    <h5>Fondue</h5>
+    <h3>Fondue</h3>
     <ul>
         <li>Whites: Pinot Grigio and Petite Arvine</li>
     </ul>
-    <h5>Rosti</h5>
+    <h3>Rosti</h3>
     <ul>
         <li>Reds: Merlot and Pinot Noir</li>
         <li>Whites: Pinot Grigio</li>
     </ul>
-    <h5>Älplermagronen</h5>
+    <h3>Älplermagronen</h3>
     <ul>
         <li>Reds: Merlot, Zinfandel</li>
     </ul>
-    <h5>Tartiflette</h5>
+    <h3>Tartiflette</h3>
     <ul>
         <li>Reds: Pinot Noir, St. Laurent</li>
         <li>Whites: Riesling, Chenin Blanc, Muscat</li>
     </ul>
-    <h5>Merangge</h5>
+    <h3>Merangge</h3>
     <ul>
         <li>Reds: Port, Sherry</li>
         <li>Whites: Muscat, Riesling, Chenin Blanc</li>
     </ul>
-    <h5>Brönnti Creme</h5>
+    <h3>Brönnti Creme</h5>
     <ul>
         <li>Reds: Port, Sherry</li>
         <li>Whites: Muscat, Riesling, Chenin Blanc</li>
