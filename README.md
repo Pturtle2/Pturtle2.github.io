@@ -8,12 +8,15 @@
         }
         #apps{
             font-family:Georgia;
+            text-align:center;
         }
         #entrees{
             font-family:Georgia;
+            text-align:center;
         }
         #desserts{
             font-family:Georgia;
+            text-align:center;
         }
         a:link{
             color:rgb(45, 19, 117);
@@ -49,6 +52,16 @@
         #wines.list{
             position:relative;
             left:20px;
+        }
+        td, th{
+            padding: 0px 15px 0 px 0px;
+            text-align:center;
+            width:20px;
+        }
+        table{
+            float:left;
+            border:solid;
+            margin:0px 20px 0px 0px;
         }
         </style>
     </head>
@@ -426,7 +439,7 @@
         <li>Reds: Port, Sherry</li>
         <li>Whites: Muscat, Riesling, Chenin Blanc</li>
     </ul>
-    <h3>Brönnti Creme</h5>
+    <h3>Brönnti Creme</h3>
     <ul>
         <li>Reds: Port, Sherry</li>
         <li>Whites: Muscat, Riesling, Chenin Blanc</li>
