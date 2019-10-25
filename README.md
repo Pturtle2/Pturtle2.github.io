@@ -5,6 +5,7 @@
         <style>
         body{
              font-family:monospace;
+            background-color:#ece4d8;
         }
         #apps{
             font-family:Georgia;
