@@ -94,7 +94,7 @@
         </ul>
         <h2 id="apps">Appetizers</h2>
         <h3 id="fondue">Fondue</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Cheese_fondue_Rokko_Kobe01n3200.jpg" alt="Fondue Pot with cheese" width="250">
+        <img src="https://www.baltimoresun.com/resizer/v4udoIbOiFIkOFy1LQcvpI_dGzc=/fit-in/800x600/top/filters:fill(black)/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OA72AEOQHJE77CQ5MYK745LQTQ.jpg" alt="Fondue Pot with cheese" width="250">
         <h5 class="chef">by The Melting Pot Restaurant</h5>
         <ul>
             <li>Serves: 2-3
