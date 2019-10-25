@@ -61,7 +61,7 @@
         table{
             float:left;
             border:solid;
-            margin:0px 20px 0px 0px;
+            margin:0px 40px 10px 10px;
         }
         </style>
     </head>
